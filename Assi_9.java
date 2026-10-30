@@ -51,7 +51,7 @@ public static void main(String [] args ) throws InterruptedException{
 // int[][] arr = new int[3][4];
 // int[][] arr1 = new int[3][4];
 
-int arr[][] = {{1,2,3},{4,5,6},{7,8,9}};
+int arr[][] = {{1,2,3}};
 int arr1[][] = {{1,2,3},{4,5,6},{7,8,9}};
 int[][] arr2 = new int[arr.length][arr1[0].length]; 
 
